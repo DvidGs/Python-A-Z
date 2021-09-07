@@ -12,3 +12,7 @@ Everything I need to program in Python
 5 - Data structures: Lists.
 
 6 - Data structures: Dictionaries.
+
+7 - Data structures: Sets.
+
+8 - Data structures: Tuples.
